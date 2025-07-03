@@ -95,9 +95,16 @@ Final shape: **9,659 rows × 16 columns**
 
 ## 🧪 Libraries Used
 
-```bash
+
 pandas
 numpy
 matplotlib
 seaborn
 warnings
+
+## 🚀 Future Work
+Predict app success (e.g., number of installs or rating)
+
+Cluster apps based on features
+
+Develop a recommendation system
